@@ -13,7 +13,7 @@
     "express": "~4.2.0",
     "feedparser": "^0.19.1",
     "iconv": "^2.1.4",
-    "mongoose": "^3.8.15",
+    "mongoose": "^5.12.2",
     "morgan": "~1.0.0",
     "static-favicon": "~1.0.0"
   }
